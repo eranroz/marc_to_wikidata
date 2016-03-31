@@ -12,7 +12,7 @@ marcxml_example.xml is small subset of MARC records from National Library of Isr
 and should be useful for development.
 
 For production use you would like to get MARC data with many more records.
-Ask you library (GLAM GLAM GLAM) or find a public web MARC resource.
+Ask your library (GLAM GLAM GLAM) or find a public web MARC resource (with permission to use!).
 
 
 # TODOs
