@@ -1,0 +1,2503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- אנשים -->
+
+<!-- נתן אלתרמן -->
+<data>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     nz  a22     n  4500</leader>
+  <controlfield tag="001">000009140</controlfield>
+  <controlfield tag="005">20150419214115.0</controlfield>
+  <controlfield tag="008">040203|||a||||aab|||||||||||||||||||||||</controlfield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1910-08-14</subfield>
+    <subfield code="g">1970-03-28</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Alterman, Nathan,</subfield>
+    <subfield code="d">1910-1970</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">אלתרמן, נתן,</subfield>
+    <subfield code="d">1910-1970</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Альтерман, Натан,</subfield>
+    <subfield code="d">1910-1970</subfield>
+    <subfield code="9">cyr</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">אלתרמן, נתן</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Alterman, Natan</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">אלטערמאן, נתן,</subfield>
+    <subfield code="d">1910-1970</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">אלטרמן, נתן,</subfield>
+    <subfield code="d">1910-1970</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">אלטרמאן, נתן</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">אלתרמאן, נתן בן יצחק</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Viaf cluster heading merged from record 000199679</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">הפניות נוצרו בתהליך אוטומטי על בסיס שם משפחה</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading merged from record: 000147333</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Author&apos;s שלמה המלך ושלמי הסנדלר, 2005.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCN</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Record enhanced with data from Bibliography of the Hebrew Book database</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">תדהר, אנציקלופדיה, ח, 3081-3082</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">קרסל, לכסיקון, א, 121-122</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">דבר, כא אדר-ב תש&quot;ל</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Who&apos;s who in world Jewry, New York 1965, p. 22.</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום לידה: Warsaw</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום לידה: ווארשא</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">תאריך לידה עברי: תר&quot;ע [יולי 1910]</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום פטירה: Tel Aviv</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום פטירה: תל-אביב</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">תאריך פטירה עברי: כ אדר-ב תש&quot;ל [28.3.1970].</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">תאריך עליה: עלה עם הוריו בשנת תרפ&quot;ה [1925].</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">אלתרמאן, נתן בן יצחק</subfield>
+    <subfield code="2">bhb</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">ALTERMAN, NATHAN B. ISAAC</subfield>
+    <subfield code="2">bhb</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">54296886</subfield>
+  </datafield>
+  <datafield tag="903" ind1=" " ind2=" ">
+    <subfield code="a">000021103</subfield>
+  </datafield>
+  <datafield tag="985" ind1=" " ind2=" ">
+    <subfield code="a">ACUM-00000699106</subfield>
+  </datafield>
+</record>
+
+<!-- דוד בן גוריון -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     nz  a22     n  4500</leader>
+  <controlfield tag="001">000017959</controlfield>
+  <controlfield tag="005">20151223155113.0</controlfield>
+  <controlfield tag="008">000108|||a||||aab|||||||||||||||||||||||</controlfield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1886-10-16</subfield>
+    <subfield code="g">1973-12-01</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ben-Gurion, David,</subfield>
+    <subfield code="d">1886-1973</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">בן גוריון, דוד,</subfield>
+    <subfield code="d">1886-1973</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">بن غوريون، دافيد</subfield>
+    <subfield code="9">ara</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Бен-Гурион, Давид,</subfield>
+    <subfield code="d">1886-1973</subfield>
+    <subfield code="9">cyr</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gryn, David,</subfield>
+    <subfield code="d">1886-1973</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ben Gourion, David,</subfield>
+    <subfield code="d">1886-1973</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ben-Gurion, Dawid,</subfield>
+    <subfield code="d">1886-1973</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gruen, David Joseph,</subfield>
+    <subfield code="d">1886-1973</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Yariv, S. S.,</subfield>
+    <subfield code="d">1886-1973</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">יריב, ס ש</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">בן גריון, דוד,</subfield>
+    <subfield code="d">1886-1973</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">بن جوريون، دافيد</subfield>
+    <subfield code="9">ara</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">بن جوريون، داڤيد</subfield>
+    <subfield code="9">ara</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">ס. ש. יריב</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">דוד בן-גוריון</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">בן-גוריון, דוד יוסף בן אביגדור</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Viaf cluster heading merged from record 000168074</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">בן גוריון, דוד יוסף בן אביגדור</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">שם קודם: גרין.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">הפניות נוצרו בתהליך אוטומטי על בסיס שם משפחה</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Viaf cluster heading merged from record 000160547</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading merged from record: 000148232</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">מיטן פנים צו דער צוקונפט. תש&quot;ט.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCN</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Record enhanced with data from Bibliography of the Hebrew Book database</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ד&apos; תדהר, אנציקלופדיה לחלוצי הישוב ובוניו, ג, (1949), עמ&apos; 1101-1097</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ברכה חבס, דוד בן-גוריון ודורו, תל-אביב תשי&quot;ב</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום לידה: Plonsk</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום לידה: פלונסק</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום לידה: [פולין]</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">תאריך לידה עברי: יז תשרי תרמ&quot;ז [16.10.1886]</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום פטירה: Sede Boqer</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום פטירה: שדה בוקר</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">תאריך פטירה עברי: ו כסליו תשל&quot;ד [1.12.73].</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">תאריך עליה: עלה ארצה בשנת תרס&quot;ו [1906].</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">בן-גוריון, דוד יוסף בן אביגדור</subfield>
+    <subfield code="2">bhb</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">BEN-GURION, DAVID JOSEPH B. ABIGDOR</subfield>
+    <subfield code="2">bhb</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">32016450</subfield>
+  </datafield>
+  <datafield tag="903" ind1=" " ind2=" ">
+    <subfield code="a">000010731</subfield>
+  </datafield>
+  <datafield tag="985" ind1=" " ind2=" ">
+    <subfield code="a">ACUM-PI090215900</subfield>
+  </datafield>
+</record>
+
+<!-- ש״י עגנון -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     nz  a22     n  4500</leader>
+  <controlfield tag="001">000007449</controlfield>
+  <controlfield tag="005">20150329115119.0</controlfield>
+  <controlfield tag="008">000108|||a||||aab|||||||||||||||||||||||</controlfield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1888-07-17</subfield>
+    <subfield code="g">1970-02-17</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Agnon, Shmuel Yosef,</subfield>
+    <subfield code="d">1888-1970</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">עגנון, שמואל יוסף,</subfield>
+    <subfield code="d">1888-1970</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Агнон, Шмуэль Иосеф,</subfield>
+    <subfield code="d">1888-1970</subfield>
+    <subfield code="9">cyr</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">عگنون، شموئل يوسف،</subfield>
+    <subfield code="d">1888-1970</subfield>
+    <subfield code="9">ara</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">טשאטשקעס, שמואל יוסף</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">צ&apos;צ&apos;קס, שמואל יוסף</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Agnon, Samuel Joseph</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Agnon, S. J.</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tschatschkes, Samuel Josef</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Agnon, Smuel Iosef</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Agnon, Schmuel Iosef</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Agnon, Samuel Josef</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Czaczkes, Samuel Joseph</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cackes, Smuel Josef</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Agnon, Shay</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Agnon, Szmuel Josef</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">עגנון, שמואל יוסף</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">עגנון, שמואל יוסף בן שלום מרדכי,</subfield>
+    <subfield code="c">הלוי</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">عغنون، شموئيل يوسف،</subfield>
+    <subfield code="d">1888-1970</subfield>
+    <subfield code="9">ara</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">اگنون، شموئل يوسف،</subfield>
+    <subfield code="d">1888-1970</subfield>
+    <subfield code="9">ara</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">عجنون، شموئيل يوسف،</subfield>
+    <subfield code="d">1888-1970</subfield>
+    <subfield code="9">ara</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Viaf cluster heading merged from record 000194880</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading merged from record: 000147032</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading merged from record: 000162551</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ויקיפדיה</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCN</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Record enhanced with data from Bibliography of the Hebrew Book database</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מידע על שם: : שמו הקודם: טשאטשקס.</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום לידה: Buczacz</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום לידה: בוטשאטש [ Buczacz, גאליציה]</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">תאריך לידה עברי: ט אב תרמ&quot;ח [17.7.1888]</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום פטירה: ירושלים</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום פטירה: Jerusalem</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">תאריך פטירה עברי: יא אדר-א תש&quot;ל [17.2.1970].</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">תאריך עליה: עלה בשנת תרס&quot;ז [1907].</subfield>
+  </datafield>
+  <datafield tag="680" ind1=" " ind2=" ">
+    <subfield code="a">Hebrew catalog.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">עגנון, שמואל יוסף בן שלום מרדכי הלוי</subfield>
+    <subfield code="2">bhb</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">AGNON, SAMUEL JOSEPH B. SHALOM MORDECAI HALEVI</subfield>
+    <subfield code="2">bhb</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">14765267</subfield>
+  </datafield>
+  <datafield tag="903" ind1=" " ind2=" ">
+    <subfield code="a">000065460</subfield>
+  </datafield>
+</record>
+
+<!-- נעמי שמר -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     nz  a22     n  4500</leader>
+  <controlfield tag="001">000121498</controlfield>
+  <controlfield tag="005">20150504225316.0</controlfield>
+  <controlfield tag="008">021201|||az|||aab|||||||||||||||||||||||</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1930-07-13</subfield>
+    <subfield code="g">2004-06-26</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shemer, Naomi,</subfield>
+    <subfield code="d">1930-2004</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">שמר, נעמי,</subfield>
+    <subfield code="d">1930-2004</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Kibbutz Kinneret, Israel</subfield>
+    <subfield code="b">Tel Aviv, Israel</subfield>
+    <subfield code="f">Paris, France</subfield>
+    <subfield code="f">USA</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">&lt;&lt;The&gt;&gt; academy of the hebrew language</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Aqum</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Musician</subfield>
+    <subfield code="a">Composer</subfield>
+    <subfield code="a">Poet</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">שמר, נעמי</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shemer-Sapir, Naomi,</subfield>
+    <subfield code="d">1930-2004</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sapir, Naomi Shemer-,</subfield>
+    <subfield code="d">1930-2004</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shemer-Horowitz, Naomi,</subfield>
+    <subfield code="d">1930-2004</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Horowitz, Naomi Shemer,</subfield>
+    <subfield code="d">1930-2004</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">אליפז</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">ש. כרמל</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Viaf cluster heading merged from record 000225047</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Simane derekh, 2003:</subfield>
+    <subfield code="b">t.p. (Noʻomi Shemer) added t.p. (Naomi Shemer [in rom.]) fly leaf (naladti 13 le-Yuli, 1930...)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New York times, June 29, 2004</subfield>
+    <subfield code="b">(Naomi Shemer, 74, poet and composer; d. June 26, 2004, Tel Aviv)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Author&apos;s אל בורות המים</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">29798132</subfield>
+  </datafield>
+  <datafield tag="933" ind1=" " ind2=" ">
+    <subfield code="a">MTZ 201306</subfield>
+  </datafield>
+  <datafield tag="933" ind1=" " ind2=" ">
+    <subfield code="a">MTZ 201403</subfield>
+  </datafield>
+  <datafield tag="985" ind1=" " ind2=" ">
+    <subfield code="a">ACUM-00028521398</subfield>
+  </datafield>
+  <datafield tag="985" ind1=" " ind2=" ">
+    <subfield code="a">ACUM-1267</subfield>
+  </datafield>
+</record>
+
+<!-- שמעון אגרנט -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     nz  a22     n  4500</leader>
+  <controlfield tag="001">000007458</controlfield>
+  <controlfield tag="008">000108|||a||||aab|||||||||||||||||||||||</controlfield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1906</subfield>
+    <subfield code="g">1992</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Agranat, Shimon,</subfield>
+    <subfield code="d">1906-1992</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">אגרנט, שמעון,</subfield>
+    <subfield code="d">1906-1992</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Agranat, Simon,</subfield>
+    <subfield code="d">1906-1992</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Viaf cluster heading merged from record 000240691</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ספר: דיני עונשין, תשי&quot;ד.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCN; date of death from 1763237</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">67940515</subfield>
+  </datafield>
+</record>
+
+<!-- פול אוסטר -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     nz  a22     n  4500</leader>
+  <controlfield tag="001">000013241</controlfield>
+  <controlfield tag="005">20090617142052.0</controlfield>
+  <controlfield tag="008">000108|||a||||aab|||||||||||||||||||||||</controlfield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1947</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Auster, Paul,</subfield>
+    <subfield code="d">1947-</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">אוסטר, פול,</subfield>
+    <subfield code="d">1947-</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Viaf cluster heading merged from record 000164290</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">באנגלית: AUSTER, PAUL</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">יליד 1947</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Random House book of twentieth-century French poetry, c1982 (a.e.)</subfield>
+    <subfield code="b">CIP t.p. (Paul Auster) data sheet (b. Feb. 3, 1947)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U.S. copyright file, June 8, 2000</subfield>
+    <subfield code="b">(Benjamin, Paul, pseud. [of Paul Benjamin Auster, 1947-])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biog. resource center (Contemporary authors), June 17, 2004</subfield>
+    <subfield code="b">(Paul Auster; b. Feb. 3, 1947, Newark, N.J.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCN &amp; OCALC</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">110344312</subfield>
+  </datafield>
+</record>
+
+<!-- אמילי דיקינסון -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     nz  a22     n  4500</leader>
+  <controlfield tag="001">000039387</controlfield>
+  <controlfield tag="008">000108|||a||||aab|||||||||||||||||||||||</controlfield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1830</subfield>
+    <subfield code="g">1886</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dickinson, Emily,</subfield>
+    <subfield code="d">1830-1886</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">דיקינסון, אמילי,</subfield>
+    <subfield code="d">1830-1886</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading merged from record: 000226393</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCN</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ספר: חיי נצבו רובה טעון, תש&quot;ס 2002.</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">31995584</subfield>
+  </datafield>
+</record>
+
+
+<!-- שמעון פרס -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     nz  a22     n  4500</leader>
+  <controlfield tag="001">000104575</controlfield>
+  <controlfield tag="005">20151231091814.0</controlfield>
+  <controlfield tag="008">000108|||az|||aab|||||||||||||||||||||||</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="b">mul</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1923-08-02</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Peres, Shimon,</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">פרס, שמעון,</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">بيرس، شمعون،</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="9">ara</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Перес, Шимон,</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="9">cyr</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Vishnyeva, Belarus</subfield>
+    <subfield code="c">Israel</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Israeli statesman</subfield>
+    <subfield code="a">Israeli Prime Minister</subfield>
+    <subfield code="a">Israeli President</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">heb</subfield>
+    <subfield code="a">eng</subfield>
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Persky, Shimon,</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Peresz, Simon,</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Perski, Shimon,</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Perski, Szymon,</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Peres, Schimon,</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">פרסקי, שמעון</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">פרעס, שמעון,</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">بيريز، شيمون،</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="9">ara</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">بيريس، شمعون،</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="9">ara</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">بيريز، شمعون،</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="9">ara</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Viaf cluster heading merged from record 000207347</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">הפניות נוצרו בתהליך אוטומטי על בסיס שם משפחה</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Viaf cluster heading merged from record 000160486</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading merged from record: 000155047</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Author&apos;s &lt;&lt;ה&gt;&gt;שלב הבא, (1965).</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCN</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, viewed December 31, 2015:</subfield>
+    <subfield code="b">Shimon Peres (Shimon Peres was born Szymon Perski, on 2 August 1923, Wiszniew, Poland (now Vishnyeva, Belarus), to Yitzhak (1896–1962) and Sara (1905–1969 née Meltzer) Perski. Shimon Peres (About this sound listen (help·info); Hebrew: שמעון פרס; born Szymon Perski; 2 August 1923) is a Polish-born Israeli statesman. The family spoke Hebrew, Yiddish and Russian at home, and Peres learned Polish at school. He now speaks English and French in addition to Hebrew. He was the ninth President of Israel from 2007 to 2014. Peres served twice as the Prime Minister of Israel and twice as Interim Prime Minister, and he was a member of 12 cabinets in a political career spanning over 66 years.[1] Peres was elected to the Knesset in November 1959 and, except for a three-month-long hiatus in early 2006, served continuously until 2007, when he became President.)</subfield>
+    <subfield code="u">https://en.wikipedia.org/wiki/Shimon_Peres</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">78770379</subfield>
+  </datafield>
+  <datafield tag="933" ind1=" " ind2=" ">
+    <subfield code="a">lrw 201512</subfield>
+  </datafield>
+  <datafield tag="985" ind1=" " ind2=" ">
+    <subfield code="a">ACUM-00600300234</subfield>
+  </datafield>
+</record>
+
+<!-- חנה רובינא -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200217n  45 0</leader>
+  <controlfield tag="001">000627846</controlfield>
+  <controlfield tag="003">OCoLC</controlfield>
+  <controlfield tag="005">20131218173854.0</controlfield>
+  <controlfield tag="008">960206n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rovina, Hanna,</subfield>
+    <subfield code="d">-1980</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">רובינא, חנה,</subfield>
+    <subfield code="d">1893-1980</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rovina, Hanna,</subfield>
+    <subfield code="d">d. 1980</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rovina, Hanna,</subfield>
+    <subfield code="d">1889 or 1892-1980</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rovina, Hanah,</subfield>
+    <subfield code="d">d. 1980</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rubin, Hanah,</subfield>
+    <subfield code="d">d. 1980</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rubina, Hanah,</subfield>
+    <subfield code="d">d. 1980</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rovina, Ch.</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rovina, Chana</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">רובינה, חנה,</subfield>
+    <subfield code="d">1893-1980</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">חנה רובינא, 1978:</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">http://he.wikipedia.org/wiki/%D7%97%D7%A0%D7%94_%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%90</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ha-Malkah nasʻah be-oṭobus, 1995:</subfield>
+    <subfield code="b">t.p. (Rovina) t.p. verso (Hanna Rovina [in rom.]) p. 13, etc. (Ḥanah Rubin; Ḥanah Rovina; actress; b. Yom Kipur 643 [1882]; year of birth given also as 1888, 1889 and 1892; d. 15 Shevaṭ 740 (1980))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Enc. Jud., c1972</subfield>
+    <subfield code="b">(Rovina, Hanna, 1892- ; Israeli actress)</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">11405345</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">lta 201210</subfield>
+  </datafield>
+</record>
+
+<!-- יאנוש קורצ׳ק -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     nz  a22     n  4500</leader>
+  <controlfield tag="001">000077831</controlfield>
+  <controlfield tag="005">20151115220429.0</controlfield>
+  <controlfield tag="008">000108|||a||||aab|||||||||||||||||||||||</controlfield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1878-07-22</subfield>
+    <subfield code="g">1942</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Korczak, Janusz,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">קורצ&apos;ק, ינוש,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Корчак, Януш,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">cyr</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">كورجاك، يانوش</subfield>
+    <subfield code="9">ara</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">קורצ&apos;ק, יאנוש,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Korczac, Janusz,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Goldschmidt, Henryk,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Goldszmit, Henryk,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Korchak, Ioann,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Golʹdshmit, Genrik,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ḳorts&apos;aḳ, Yanush,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ḳorṭshaḳ, Yanush,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Goldshmiṭ, Ḥanokh Henriḳ,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Goldshmiṭ, Henriḳ,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">קורצ&apos;אק, יאנוש,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">גולדשמיט, הנריק</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">קארטשאק, ינוש,</subfield>
+    <subfield code="d">1878-1942</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">كورتشلك، يانوش</subfield>
+    <subfield code="9">ara</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">קורצ&apos;אק, יאנוש בן יוסף</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Viaf cluster heading merged from record 000152372</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">הפניות נוצרו בתהליך אוטומטי על בסיס שם משפחה</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading merged from record: 000184804</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading merged from record: 000171066</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCN</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCN: Korczak, Janusz, 1878-1942</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">קיטוש קוסם. 2000.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Record enhanced with data from Bibliography of the Hebrew Book database</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">H. Mortkowicz-Olczakowa: Janusz Korczak, Warszawa 1961.</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום לידה: Warsaw</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום לידה: ווארשא</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">תאריך לידה עברי: כא תמוז תרל&quot;ח [22.7.1878]</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום פטירה: Treblinka</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום פטירה: טרבלינקה</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">תאריך פטירה עברי: תש&quot;ג [1942].</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">Pseudonym: Henryk Goldszmit.</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">נספה בשואה.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">קורצ&apos;אק, יאנוש בן יוסף</subfield>
+    <subfield code="2">bhb</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">KORCZAK, JANUSZ</subfield>
+    <subfield code="2">bhb</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">100899665</subfield>
+  </datafield>
+  <datafield tag="903" ind1=" " ind2=" ">
+    <subfield code="a">000102571</subfield>
+  </datafield>
+</record>
+
+<!-- נחום גוטמן -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     nz  a22     n  4500</leader>
+  <controlfield tag="001">000058086</controlfield>
+  <controlfield tag="008">000807|||a||||aab|||||||||||||||||||||||</controlfield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1898</subfield>
+    <subfield code="g">1980</subfield>
+    <subfield code="v">Israel Museum thesaurus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gutman, Nahum,</subfield>
+    <subfield code="d">1898-1980</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">גוטמן, נחום,</subfield>
+    <subfield code="d">1898-1980</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Гутман, Нахум,</subfield>
+    <subfield code="d">1898-1980</subfield>
+    <subfield code="9">cyr</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Bessarabia, Russia</subfield>
+    <subfield code="v">Israel Museum thesaurus</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Israel</subfield>
+    <subfield code="v">Israel Museum thesaurus</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Painter I author</subfield>
+    <subfield code="v">Israel Museum thesaurus</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">איתן, נחום</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">גוטמאן, נחום,</subfield>
+    <subfield code="d">1898-1980</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">גוטמאן, נחום בן שמחה אלטר</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Viaf cluster heading merged from record 000169581</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">הפניות נוצרו בתהליך אוטומטי על בסיס שם משפחה</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading merged from record: 000150367</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCN: Gutman, Nahum, 1898-; date of death from LCN note</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gutman, Nahum, 1898-1980</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Record enhanced with data from: The IMAGINE Thesaurus - The Israel Museum Jerusalem Thesaurus - Artist names authority file</subfield>
+    <subfield code="u">http://www.imj.org.il/imagine/thesaurus/artists/T8011.htm</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Record enhanced with data from Bibliography of the Hebrew Book database</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Who&apos;s who in world Jewry, New York 1955, p. 306</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Who&apos;s who, Israel, 1963-4, p. 289.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ד&apos; תדהר, אנציקלופדיה לחלוצי הישוב ובוניו, ג, מהד&apos; ב, (1958), עמ&apos; 1344-1343 [כאן: נולד יב מנחם-אב תרנ&quot;ח].</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">א&apos; כרמל, אישים בישראל תשכ&quot;א, עמ&apos; 79</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">מעריב, כב כסלו תשמ&quot;א, עמ&apos; 3.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">א&apos; אופק, לקסיקון אופק לספרות ילדים, א, עמ&apos; 132-133.</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום לידה: Telenesti</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום לידה: טלנשטי Telenesti], בסאראביה]</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">תאריך לידה עברי: כט תשרי תרנ&quot;ט [15.10.1898]</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום פטירה: Ra&apos;anannah</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">מקום פטירה: רעננה</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">תאריך פטירה עברי: כא כסליו תשמ&quot;א [28.11.1980].</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">תאריך עליה: עלה ארצה בשנת תרס&quot;ו [1905].</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">גוטמאן, נחום בן שמחה אלטר</subfield>
+    <subfield code="2">bhb</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">GUTMAN, NAHUM B. SIMHA ALTER</subfield>
+    <subfield code="2">bhb</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">32232401</subfield>
+  </datafield>
+  <datafield tag="903" ind1=" " ind2=" ">
+    <subfield code="a">000024869</subfield>
+  </datafield>
+  <datafield tag="986" ind1=" " ind2=" ">
+    <subfield code="a">T8011</subfield>
+  </datafield>
+</record>
+
+<!-- אסתר עופרים-->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     nz  a22     n  4500</leader>
+  <controlfield tag="001">000324743</controlfield>
+  <controlfield tag="005">20140616132326.0</controlfield>
+  <controlfield tag="008">100906 | acannaab|           | |||     d</controlfield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1940</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">עופרים, אסתר,</subfield>
+    <subfield code="d">1940-</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ofarim, Ester</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">עפרים, אסתר,</subfield>
+    <subfield code="d">1940-</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">ריכשטט, אסתר,</subfield>
+    <subfield code="d">1940-</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">זיד, אסתר,</subfield>
+    <subfield code="d">1940-</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">ריכשטט, אסתר</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">&lt;&lt;ה&gt;&gt;עפרים (צמד)</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">LC Latin script heading added from VIAF - LC n 95003815</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">תקליטור שמע : היו לילות, 1988.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ראה: http://he.wikipedia.org :</subfield>
+    <subfield code="b">אסתר עופרים (נולדה ב־13 ביוני 1940) היא זמרת ישראלית ; נולדה בצפת כאסתר זייד ; התחתנה עם אברהם רייכשטט (אבי עופרים).</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">6010228</subfield>
+  </datafield>
+  <datafield tag="985" ind1=" " ind2=" ">
+    <subfield code="a">ACUM-3702</subfield>
+  </datafield>
+</record>
+
+
+<!-- מקומות -->
+
+<!-- הרודיון -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200193n  4500</leader>
+  <controlfield tag="001">000591943</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130214183205.0</controlfield>
+  <controlfield tag="008">860211|| anannbab|          |a ana</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">sh 85060429</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Herodi&apos;on (West Bank)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">הרודיון (גדה מערבית)</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Herodi&apos;on (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Herodium (West Bank)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Herodium (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Herodium (Yehuda weShomron)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Firdaws, Khirbat (West Bank)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Herodion (West Bank)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Herodium</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Herodyon (West Bank)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Herodyon</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Khirbat Firdaws (West Bank)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Castles</subfield>
+    <subfield code="z">West Bank</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="551" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">West Bank</subfield>
+    <subfield code="x">Antiquities</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading changed by NLI</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">316593100</subfield>
+  </datafield>
+</record>
+
+<!-- מערכת המכפלה -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     nz  a22     n  4500</leader>
+  <controlfield tag="001">000091236</controlfield>
+  <controlfield tag="005">20130718125244.0</controlfield>
+  <controlfield tag="008">000108|||a||||bab|||||||||||||||||||||||</controlfield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Tomb of the Patriarchs (Hebron, West Bank)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">מערת המכפלה (חברון, גדה מערבית)</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Cave of the Patriarchs (Hebron, West Bank)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Me&apos;Arat Ha-Makhpela (Hebron)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Me&apos;Arat Ha-Makhpela</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Me&apos;Arat Ha-Makhpela (Hebron, West Bank)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Me&apos;Arat Ha-Makhpela (Hebron, Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">&lt;&lt;al&gt;&gt;-Ibrahimi Mosque (Hebron)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Cave of Makhpela (Hebron)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Machpelah, Cave of (Hebron)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Cave of Machpelah (Hebron)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Cave of Machpela (Hebron)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">&lt;&lt;al&gt;&gt;-Masjid al-Ibrahimi (Hebron)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Tomb of the Patriarchs (Hebron)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Caves</subfield>
+    <subfield code="z">West Bank</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Shrines</subfield>
+    <subfield code="z">West Bank</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Tombs</subfield>
+    <subfield code="z">West Bank</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Work cat.: Religious education, New Testament, Digital Library, 2000</subfield>
+    <subfield code="b">(Cave of Machpelah)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Religious education, New Testament, Digital Library, 2000. Discovering the world of the Bible, 1996:</subfield>
+    <subfield code="b">p. 193 (The Tomb of the Patriarchs is the Cave of Machpelah, located beneath a huge shrine dating back to Herod&apos;s time. This was a sacred site where people visited as tourists in the days of Jesus.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Holy Land : a geographical, historical and archaeological guide to the land of the Bible, c1990:</subfield>
+    <subfield code="b">p. 245-236 (The Tomb of the Patriarchs is built over a natural cave that tradition identifies as the Cave of Machpelah)</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">316572816</subfield>
+  </datafield>
+</record>
+
+<!-- הר קדומים / הר הקפיצה -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200193n  4500</leader>
+  <controlfield tag="001">000637325</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000811103642.0</controlfield>
+  <controlfield tag="008">000623|| anannbabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">sh 00007121</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Precipitation, Mount of (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Mount of Precipitation (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Mountains</subfield>
+    <subfield code="z">Israel</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Work cat.: Religious education, New Testament, Digital Library, 2000.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Emmett, Chad F. Beyond the Basilica : Christians and Muslims in Nazareth, 1995:</subfield>
+    <subfield code="b">p. 114 (The Traditional Mount of Precipitation is two miles away from the town.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Discovering the world of the Bible:</subfield>
+    <subfield code="b">p. 110 (Mount of Precipitation; known also as the &quot;Leap of the Lord)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">GeoNet;</subfield>
+    <subfield code="a">Getty;</subfield>
+    <subfield code="a">Lippincott;</subfield>
+    <subfield code="a">Web. geog.</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Israel</subfield>
+    <subfield code="z">Precipitation, Mount of</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">315150350</subfield>
+  </datafield>
+</record>
+
+<!-- הים האגאי -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200205n  4500</leader>
+  <controlfield tag="001">000640087</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19991108090637.0</controlfield>
+  <controlfield tag="008">860211|| anannbabn          |a ana</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">sh 85001233</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Aegean Islands (Greece and Turkey)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">איי הים האגאי (יוון ותורכיה)</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="450" ind1=" " ind2=" ">
+    <subfield code="a">Islands</subfield>
+    <subfield code="z">Aegean Sea</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Islands of the Aegean</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Islands</subfield>
+    <subfield code="z">Greece</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Islands</subfield>
+    <subfield code="z">Turkey</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lippincott.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Web. geog.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Britannica 14.</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="w">n</subfield>
+    <subfield code="z">Aegean Islands (Greece and Turkey)</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">315144043</subfield>
+  </datafield>
+</record>
+
+<!-- בריכת השילוח -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200205n  4500</leader>
+  <controlfield tag="001">000633795</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140703092327.0</controlfield>
+  <controlfield tag="008">000214|| anannbabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">sh 00001878</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Siloam, Pool of (Jerusalem, Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">בריכת השילוח (ירושלים, ישראל)</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Pool of Siloam (Jerusalem)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Siloam&apos;s Pool (Jerusalem)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Siloam, Pool of (Jerusalem)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Reservoirs</subfield>
+    <subfield code="z">Israel</subfield>
+    <subfield code="z">Jerusalem</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">This heading is not valid for use as a geographic subdivision.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Work cat: Essai sur l&apos;Isaiee de l&apos;histoire : etude de quelques textes notamment dans Isa. VII, VIII &amp; XXII, 1975.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Discovering the world of the Bible, 1996:</subfield>
+    <subfield code="b">p. 53 (Pool of Siloam; Siloam&apos;s Pool is located on the south end of the City of David, near the point where the Valley of Hinnom and the Tyropoeon Valley (Cheesemaker&apos;s Valley) run into the Kidron Valley)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Harper-Collins Bible dict., 1996:</subfield>
+    <subfield code="b">p. 1022 (&quot;a reservoir within the city known as the pool of Siloam&quot;)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Getty, Feb. 3, 2000;</subfield>
+    <subfield code="a">Lippincott;</subfield>
+    <subfield code="a">Web. geog.;</subfield>
+    <subfield code="a">Atlas of the early Christian</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">315161533</subfield>
+  </datafield>
+</record>
+
+<!-- הר הכרמל -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200181n  4500</leader>
+  <controlfield tag="001">000657146</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120627123236.0</controlfield>
+  <controlfield tag="008">860211|| anannbabn          |a ana</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">sh 85020347</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Karmel, Mount (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">הר הכרמל (ישראל)</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Carmel, Mount (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Carmel Mountains (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">&lt;&lt;ha-&gt;&gt;Karmel (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">ha-Karmel (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Har ha-Karmel (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Har Karmel (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Karmel (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Mount Carmel (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Mountains</subfield>
+    <subfield code="z">Israel</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Changed to standard Israeli form</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Cross references added by NLI</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ha-Karmel--ṭevaʻ ṿe-nof, 1986:</subfield>
+    <subfield code="b">t.p. (Karmel) p. 7 (Har ha-Karmel)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Israel</subfield>
+    <subfield code="z">Karmel, Mount</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">155110210</subfield>
+  </datafield>
+  <datafield tag="933" ind1=" " ind2=" ">
+    <subfield code="a">csr 201206</subfield>
+  </datafield>
+</record>
+
+<!-- הגליל -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200253n  4500</leader>
+  <controlfield tag="001">000686817</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121030090742.0</controlfield>
+  <controlfield tag="008">860211|| anannbabn          |b ana</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">sh 85052797</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Galilee (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">גליל (ישראל)</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Galil (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Galilee</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Israel, Northern</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Jalīl (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Northern Israel</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Northern Eretz Israel</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Eretz Israel, Northern</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Changed to standard Israeli form</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading changed by NLI</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ben-David, Y. ha-Tokhnit le-fituaḥ ezori--gevul ha-tsafon ba-Galil, 1988.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lippincott.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Web. geog.</subfield>
+    <subfield code="b">(Galilee. Hilly region, coextensive with N part of modern Israel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Britannica Micro.</subfield>
+    <subfield code="b">(Galilee, northernmost region of ancient Palestine; corresponds to modern northern Israel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">93-959504: ʻAbd al-Nūr, F. al-Jalīl, al-arḍ wa-al-insān, 1990.</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Israel</subfield>
+    <subfield code="z">Galilee</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">315125056</subfield>
+  </datafield>
+</record>
+
+<!-- נהר הירדן  -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200181n  4500</leader>
+  <controlfield tag="001">000702530</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120815122610.0</controlfield>
+  <controlfield tag="008">860211|| anannbabn          |a ana</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">sh 85070703</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Jordan River</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">ירדן, נהר</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">&lt;&lt;ha&gt;&gt;-Yarden, Nehar</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">ash-Sharīʻah</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Yarden River</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Nahal Yarden</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Aulon</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">ha-Yarden</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Nahr al-Urdunn</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Rivers</subfield>
+    <subfield code="z">Middle East</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Jordan River</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">315128281</subfield>
+  </datafield>
+</record>
+
+<!-- מצדה -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200253n  4500</leader>
+  <controlfield tag="001">000712101</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151006131617.0</controlfield>
+  <controlfield tag="008">860211|| anannbabn          |b ana</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">sh 85081785</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Masada Site (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">מצדה, אתר (ישראל)</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Ḥorvot Metsadah (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Ḥorvot Meẓada (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Massada Site (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Mazada Site (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Metsada Site (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Metsadah Site (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Meẓada (Fortress), Israel</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Meẓada Site (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Sabba Site (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Sebbe Site (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="551" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Israel</subfield>
+    <subfield code="x">Antiquities</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Israel</subfield>
+    <subfield code="z">Masada Site</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">315127217</subfield>
+  </datafield>
+</record>
+
+<!-- מכתש רמון -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200145n  4500</leader>
+  <controlfield tag="001">000738988</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140504190459.0</controlfield>
+  <controlfield tag="008">860211|| anannbabn          |a ana</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">sh 85111294</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Makhtesh Ramon (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">מכתש רמון (ישראל)</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Makhtesh Ramon</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Ramon Crater (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Ramon (Makhtesh)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Valleys</subfield>
+    <subfield code="z">Israel</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Changed to standard Israeli form</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Israel</subfield>
+    <subfield code="z">Makhtesh Ramon</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">239118271</subfield>
+  </datafield>
+</record>
+
+
+<!-- עמק יזרעאל -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200313n  4500</leader>
+  <controlfield tag="001">000815783</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140504165451.0</controlfield>
+  <controlfield tag="008">920924|| anannbabn          |a ana</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">sh 92005308</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Emek Yizre&apos;el (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">עמק יזרעאל (ישראל)</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Esdraelon, Plain of (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Yizre&apos;el Valley (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Yizre&apos;el Valley</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">ʻEmeq Yizreʻel (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Jezrael Valley (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Jezreel, Valley of (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Jezreel Valley (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Plain of Esdraelon (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Valley of Jezreel (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Yizreʻel, ʻEmeḳ (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Plains</subfield>
+    <subfield code="z">Israel</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Valleys</subfield>
+    <subfield code="z">Israel</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Changed to standard Israeli form</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Work cat.: 91226883: Yadin, A. Be-emtsaʻ ha-Tamuz, 1990:</subfield>
+    <subfield code="b">p. 6 (ʻEmeḳ Yizreʻel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Encyc. Judaica</subfield>
+    <subfield code="b">(Jezreel, Valley of, also Plain of Esdraelon)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN gaz. of Israel, 1983</subfield>
+    <subfield code="b">(Yizreʻel, Plain of, pln 32⁰36ʹN, 35⁰14ʹE, conventional, Plain of Esdraelon; ref. from Jezreel, Plain of)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Britannica Micro.</subfield>
+    <subfield code="b">(Esdraelon, Plain of, ref. from Jezreel, Valley of)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New. Cath. encyc.</subfield>
+    <subfield code="b">(Jezrael, city and valley)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Web. geog.</subfield>
+    <subfield code="b">(Esdraelon, Plain of, also Valley of Jezreel or Heb. ʻEmeq Yizreʻel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lippincott</subfield>
+    <subfield code="b">(Jezreel, Plain of, or Plain of Esdraelon; Hebrew ʻEmeq Jezreel)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Israel</subfield>
+    <subfield code="z">Emek Yizre&apos;el</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">315149797</subfield>
+  </datafield>
+</record>
+
+<!-- הר חרמון -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200193n  4500</leader>
+  <controlfield tag="001">000832938</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130704152824.0</controlfield>
+  <controlfield tag="008">941214|| anannbabn          |a ana</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">sh 94009534</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Mount Ḥamran (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">הר חמרן (ישראל)</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Hamran, Mount (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Har Ḥamran (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Mountains</subfield>
+    <subfield code="z">Israel</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Work cat.: 94827567: Haiman, M. Mapat Har Ḥamran, 1993</subfield>
+    <subfield code="b">(Har Ḥamran)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN gaz. of Israel, 1983</subfield>
+    <subfield code="b">(Ḥamran, Har, 30⁰41ʹN, 34⁰34ʹE)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Britannica Micro.;</subfield>
+    <subfield code="a">Encyc. Judaica;</subfield>
+    <subfield code="a">Talmi, E. Kol Erets Yiśraʼel, 1974;</subfield>
+    <subfield code="a">Lippincott;</subfield>
+    <subfield code="a">Web. geog.</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Israel</subfield>
+    <subfield code="z">Ḥamran, Mount</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">236542135</subfield>
+  </datafield>
+</record>
+
+<!-- הר תבור -->
+
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200229n  4500</leader>
+  <controlfield tag="001">000856793</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130806215907.0</controlfield>
+  <controlfield tag="008">980806|| anannbabn          |a ana</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">sh 98004994</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Mount Tabor (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">הר תבור (ישראל)</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Har Taver (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Har Tavor (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Tabor, Mount (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Taver, Har (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Tavor, Har (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Tavor, Mount (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Tavor, Mount</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Mountains</subfield>
+    <subfield code="z">Israel</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Work cat.: 98-828349: Gal, Z. Mapat Har Tavor (41) u-mapat ʻEn Dor (45), c1998.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gaz. of Israel, 1983</subfield>
+    <subfield code="b">(Tavor, Har; Mount Tabor [conventional]; 32⁰41ʹN 35⁰23ʹE)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, Aug. 25, 1998</subfield>
+    <subfield code="b">(Taver, Har; Mount Tabor)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Israel</subfield>
+    <subfield code="z">Tabor, Mount</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">315150199</subfield>
+  </datafield>
+</record>
+
+<!-- גשר בנות יעקב -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200205n  4500</leader>
+  <controlfield tag="001">000878032</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111211152249.0</controlfield>
+  <controlfield tag="008">021108|| anannbabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">sh2002011287</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH-P</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Gesher Benot Ya&apos;akov Site (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">אתר גשר בנות יעקב (ישראל)</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Gesher Benot Ya&apos;aqov Site (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="551" ind1=" " ind2=" ">
+    <subfield code="w">g</subfield>
+    <subfield code="a">Israel</subfield>
+    <subfield code="x">Antiquities</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Work cat.: Goren-Inbar, N. The Acheulian site of Gesher Benot Ya&apos;aqov, Israel, 2002.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Institute of Archaeology, The Hebrew University of Jerusalem WWW site, Nov. 7th, 2002</subfield>
+    <subfield code="b">(Gesher Benot Ya&apos;aqov, prehistoric site)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">What you need to know about archaeology WWW site, Nov. 7th, 2002</subfield>
+    <subfield code="b">(Gesher Benot Ya&apos;aqov, Acheulean site in Israel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ABCnews.com WWW site, Nov. 7th, 2002</subfield>
+    <subfield code="b">(Gesher Benot Ya&apos;aqov site)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Dictionnaire de la prehistoire, c1988; Archaeological atlas of the world, c1975</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Israel</subfield>
+    <subfield code="z">Gesher Benot Ya&apos;ḳov Site</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">315141580</subfield>
+  </datafield>
+</record>
+
+<!-- נחל הקישון -->
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>     cz  a2200205n  4500</leader>
+  <controlfield tag="001">000633772</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120815143408.0</controlfield>
+  <controlfield tag="008">000222|| anannbabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">sh 00001855</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Kishon River (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">נחל קישון (ישראל)</subfield>
+    <subfield code="9">heb</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Kison River (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Kison River</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Naḥal Qishon (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Nahal Qishon</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Qishon River (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Qishon River</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Nahal Kishon (Israel)</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Nahal Kishon</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Nahr el Mukatta</subfield>
+    <subfield code="9">lat</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Cross references added by NLI</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Work cat: Religious education New Testament, Digital Library, 2000</subfield>
+    <subfield code="b">(Kishon River, Israel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lippincott</subfield>
+    <subfield code="b">(Kishon River or Qishon River, intermittent stream, NW Israel, rises in Mt. Giboa E. of Jenin, near Jordan Border, flows 45 mi. in winding course generally NW through Plain of Jezreel, then along NE slope of Mt. Carmel, to Bay of Acre of Mediterranean at Haifa. Connected with biblical stories of Sisera and Eliza; in Bible also called Kison)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, March 16, 2000</subfield>
+    <subfield code="b">(Kishon River, see Qishon, Naḥal, stm, 32⁰48ʹ50ʺN 35⁰01ʹ34ʺE)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Israel</subfield>
+    <subfield code="z">Kishon River</subfield>
+  </datafield>
+  <datafield tag="901" ind1=" " ind2=" ">
+    <subfield code="a">315528636</subfield>
+  </datafield>
+  <datafield tag="933" ind1=" " ind2=" ">
+    <subfield code="a">csr 201207</subfield>
+  </datafield>
+</record>
+
+</data>
